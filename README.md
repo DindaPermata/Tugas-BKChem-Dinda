@@ -1,2 +1,2 @@
-# Tugas-Fisika
-Tugas ppt fisika
+# Tugas-BKChem-Dinda
+Tugas BKCHem Dinda
